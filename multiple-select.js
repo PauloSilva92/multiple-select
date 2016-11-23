@@ -738,7 +738,7 @@
 
         selectAllText: 'Selecionar Todos',
         allSelected: 'Todos selecionados',
-        countSelected: '# of % selected',
+        countSelected: '# de % selecionados',
         noMatchesFound: 'Nenhum resultado encontrado',
 
         styler: function () {
